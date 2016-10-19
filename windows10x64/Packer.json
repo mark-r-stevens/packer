@@ -24,12 +24,7 @@
   ],
  "post-processors": [
     {
-      "type": "vagrant",
-      "override": {
-         "vmware": {
-            "provider": "vmware_fusion"
-         }
-       }
+      "type": "vagrant"
     }
   ],
   "variables": {
